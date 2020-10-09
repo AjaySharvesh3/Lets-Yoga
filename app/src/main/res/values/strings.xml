@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Let\'s Yoga</string>
+    <string name="home">Home</string>
+    <string name="learn">Learn</string>
+    <string name="routines">Routines</string>
+    <string name="inbox">Inbox</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_to_let_s_yoga">Welcome to Let\'s Yoga</string>
+    <string name="hey_name">Hey, {{NAME}}</string>
+</resources>

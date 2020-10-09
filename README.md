@@ -8,8 +8,7 @@ If yes follow my words..!
 
 
 ### To Contribute
-
-1. Go The Issue Section.
+1. Go The [Issues](https://github.com/AjaySharvesh3/Lets-Yoga/issues) Section.
 2. Either Create A New Issue (or) Choose From An Existing One.
 3. Get Assigned.
 4. Fork Your Repository.
@@ -18,7 +17,15 @@ If yes follow my words..!
 7. Commit your changes and Create a Pull Request (NOTE: Commit Messages and PR Should be in proper description).
 8. Voila :clap: You're Done. I'll review and merge your changes if everything is good with go.
 
-### Licence
 
+## Contributing Guidelines
+Read [contributing guidelines](https://github.com/AjaySharvesh3/Lets-Yoga/blob/master/CONTRIBUTING.md)
+
+
+## Code of Conduct
+Read our [code of conduct](/CODE_OF_CONDUCT.md).
+
+
+## License
 [MIT License](/LICENSE).
 
